@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369129865630",
+    "firebase_url": "https://bdlanddatabase.firebaseio.com",
+    "project_id": "bdlanddatabase",
+    "storage_bucket": "bdlanddatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369129865630:android:cb81c4f64a4de0564bd68f",
+        "android_client_info": {
+          "package_name": "com.bdlanddatabase.BDLAND"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369129865630-qqf7581qfofod4gt49rlom270gl56hmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZFpdjo026vEdQtgVnx7M_oVD9wfxCv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369129865630-qqf7581qfofod4gt49rlom270gl56hmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
